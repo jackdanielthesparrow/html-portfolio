@@ -1,0 +1,50 @@
+html{
+    background:rgb(107, 132, 107);
+    font-family: fantasy
+
+}
+
+h1{
+    
+    font-size: 40px;
+    color:white;
+    text-align: center;
+    font-family: fantasy;
+    /*background-color: black;*/
+}
+
+h2 {
+    color:rgb(240, 221, 221);
+    font-size: 32px;
+    text-align:center;
+}
+
+.red-everything{
+    color:rebeccapurple
+}
+
+#firstID{
+    color:greenyellow
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    border: 1px solid #ddd;
+  }
+  
+  ul li {
+    padding: 8px 16px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  a{
+    color:white
+  }
